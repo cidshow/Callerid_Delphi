@@ -1,0 +1,1 @@
+If "softTest.txt" present, dll generates test call without device.
