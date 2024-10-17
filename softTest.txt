@@ -1,1 +1,1 @@
-If "softTest.txt" present, dll generates test call without device.
+Put "softTest.txt" to application folder for generating test call without device and phone line.
